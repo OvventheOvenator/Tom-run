@@ -1,0 +1,9 @@
+{
+  "FolderOrderSettings":[],
+  "ResourceOrderSettings":[
+    {"name":"Scr_collision_check","order":3,"path":"scripts/Scr_collision_check/Scr_collision_check.yy",},
+    {"name":"Scr_ground_check","order":1,"path":"scripts/Scr_ground_check/Scr_ground_check.yy",},
+    {"name":"Scr_jump_check","order":2,"path":"scripts/Scr_jump_check/Scr_jump_check.yy",},
+    {"name":"Scr_set_sprite","order":4,"path":"scripts/Scr_set_sprite/Scr_set_sprite.yy",},
+  ],
+}
